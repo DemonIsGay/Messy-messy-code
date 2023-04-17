@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  font-family: Verdana, sans-serif;
+} 
+
+  h1 {
+      Background-color:LightPink;
+     
+</style>
+</head>
+<body style = "background-color:rgb(255, 0, 255);">
+
+<h1>Welcome to Demons Whack Ass Site</h1>
+
+<p1>Its A mess here. Welcome to my god awful site!! there's not going to be much here.</p1>
+<p2>I should really go to a chriopracter. but me mum wont let me</p>
+<a href="https://twitter.com/supermariomovie">
+<img src = "https://i.imgur.com/OY9EV5G.jpg" >
+</a>
+
+<h2>its a mess here</h2>
+
+<h3>Enjoy your stay</h3>
+<style> 
+
+h3 {
+     color: Black;</style>
+     
+     <style>
+         
+         h3 { 
+             Background-color : Red;
+     </style>
+
+
+<style> 
+
+  p1 {
+      color: black;</style>
+      
+      <style> 
+      p2 {
+      color: rgb(255, 0, 255);</style>
+<style>
+     ul {
+      color:Black;
+</style>
+<h3>Things I like to do </h3>
+<ul> <li>Splatoon</li>
+     <li>Coding</li>
+     <li>Modding</li>
+     <li>Animal Crossing</li>
+     </ul>
+     
+<table border>
+    <thread>
+        <tr>
+            <th>game</th>
+            <th>Producer</th>
+            <th>Rating</th>
+        </tr>
+    </thread>
+    <tbody>
+        <tr>
+            <td>Splatoon 3</td>
+            <td>Hisashi Nogami</td>
+            <td>83/100 (Metacritic)</td>
+        </tr>
+    </tbody>
+    <tr>
+        <td>Team Fortress 2</td>
+        <td>John Cook, Robin Walker</td>
+        <td>92/100 (Metacritic)</td>
+    </tr>
+</table>
+<style> 
+tr {
+background-color: white;</style>
+
+<style>Table Board
+{
+border-color: black;</style>
+     <p>Cheak out my <a href = "https://github.com/DemonIsGay"> GitHub </a> page ig </p>
+     
+<style> p { 
+color:Black;</style>
+     
+     <style>
+     table {
+			border: 1px solid black;
+			border-collapse: collapse;
+			margin-top: 20px;
+			margin-bottom: 20px;</style>
+			
+			
+			<a href="https://www.youtube.com/watch?v=aW7bzd8uwyQ">
+			<button>PEACHES PEACHES PEACHES </button> </a>
+</body>
+</html>
