@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Wheezer</title>
+    </head>
+    
+    <body>
+        <h1>wheezer</h1>
+        <h1>My favorite food is Fleash.</h1>
+    </body>
+</html>
+<button type="button" onclick="myFunction()">wheezer button</button>
+
+<script>
+function myFunction()
+{   
+document.body.style.backgroundColor= "#00b6d5";
+document.body.style.backgroundColor= "#00bd5";
+}
+</script>
+
+</script>
+
